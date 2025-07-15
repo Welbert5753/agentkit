@@ -1,5 +1,15 @@
 # AgentKit Changelog
 
+## 0.9.0
+
+### Minor Changes
+
+- [#773](https://github.com/coinbase/agentkit/pull/773) [`463d310`](https://github.com/coinbase/agentkit/commit/463d3101147cacb0f2044162dd007489f97ef0a0) Thanks [@0xRAG](https://github.com/0xRAG)! - Migrate to CDP Wallet API v2 as the default when using CDP wallets
+
+### Patch Changes
+
+- [#774](https://github.com/coinbase/agentkit/pull/774) [`8988011`](https://github.com/coinbase/agentkit/commit/8988011081044ccb090ee498882d196d026b1963) Thanks [@CarsonRoscoe](https://github.com/CarsonRoscoe)! - Improved x402ActionProvider actions
+
 ## 0.8.2
 
 ### Patch Changes
